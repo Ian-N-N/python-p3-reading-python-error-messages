@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
-
-assert(1 == 2)
+x = 1 
+y = 1
+assert(x == y)
